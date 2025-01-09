@@ -11,7 +11,7 @@ import App from './App.jsx'
 const router = createBrowserRouter(
   createRoutesFromElements(
     <Route   path='/' element={<Layout />}>
-      <Route path='' element={<App />} />
+      {/* <Route path='' element={<App />} /> */}
       
     </Route>
   )
