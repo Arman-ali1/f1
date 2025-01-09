@@ -35,7 +35,7 @@ function AddQcChecks() {
     };
     // ======img===========
   return (
-    <div className='flex flex-col justify-center items-center'>
+    <div className='flex flex-col justify-center items-center mb-40 '>
       <h1 className='text-green-800 mb-4'>
         ----------------------------------------------------------------------<span className='text-black bg-gray-400 text-xl font-bold p-2 rounded-sm  '>Add QC Checks</span>----------------------------------------------------------------
       </h1>
