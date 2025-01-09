@@ -48,7 +48,7 @@ function AddParts() {
   return (
     <div className="p-8 space-y-6 text-slate-950 w-full  ">
     <h1 className='text-green-800 mb-4'>
-        ----------------------------------------------------------------------<span className='text-black bg-gray-400 text-xl font-bold p-2 rounded-sm  '>Add QC Checks</span>----------------------------------------------------------------
+        -----------------------------------------------------<span className='text-black bg-gray-400 text-xl font-bold p-2 rounded-sm  '>Add QC Checks</span>--------------------------------------------------
       </h1>
       <div className="flex items-center space-x-2">
         <input
