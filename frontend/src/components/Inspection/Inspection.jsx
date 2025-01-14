@@ -25,7 +25,7 @@ function Inspection() {
       <h1 className='text-green-800 mb-4'>
         ----------------------------------------------------------------------<span className='text-black bg-gray-400 text-xl font-bold p-2 rounded-sm  '>Inspection</span>----------------------------------------------------------------
       </h1>
-      <div className="w-2/3   h-96  bg-gray-400 border-2 rounded  pt-10 ">
+      <div className="w-2/3   h-96  bg-gray-100 text-black border-2 rounded  pt-10 ">
        <div className='flex flex-row justify-center items-center p-2'>
         <p className=' ml-[70px]  '>Select part  : </p>
         <select

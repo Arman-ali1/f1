@@ -39,7 +39,7 @@ function AddQcChecks() {
       <h1 className='text-green-800 mb-4'>
         ----------------------------------------------------------------------<span className='text-black bg-gray-400 text-xl font-bold p-2 rounded-sm  '>Add QC Checks</span>----------------------------------------------------------------
       </h1>
-      <div className="w-2/3   h-min   bg-gray-400 border-2 rounded  pt-10 pb-4">
+      <div className="w-2/3   h-min   bg-gray-100  border-2 rounded text-black  pt-10 pb-4">
 
        <div className='flex flex-row justify-center items-center p-2 ml-8'>
         <p>Name : </p>

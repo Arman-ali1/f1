@@ -56,9 +56,9 @@ function App() {
         case 2:
           return <AddParts></AddParts>;
         case 3:
-          return <Inspection></Inspection>;
-        case 4:
           return <PartMaster></PartMaster>;
+        case 4:
+          return <Inspection></Inspection>;
       }
     };
 
