@@ -4,7 +4,6 @@
       {
         "src": "next.config.js",
         "use": "@vercel/next"
-          
       }
     ],
     "rewrites": [
@@ -14,7 +13,6 @@
       }
     ],
     "routes": [
-        
       {
         "src": "/_next/(.*)",
         "headers": {
@@ -39,12 +37,6 @@
           }
         ]
       }
-    ],
-    "error": {
-      "notFound": {
-        "destination": "/404",
-        "statusCode": 404
-      }
-    }
+    ]
   }
   
